@@ -1,1 +1,35 @@
-qualquer coisa ae
+Github: "Rede social" de códigos;
+                 Uso online(nuvem);
+
+Git: Versionamento(controlador) de código;
+        Uso local;
+
+Repositório: Funciona como um Google Drive compartilhado com o email de todos os participantes;
+
+Branch: Linha do tempo
+
+Master: Linha do tempo atual
+
+Commit: Descrição das atualizações
+
+Comandos:
+
+Git Push: atualiza os arquivos
+Git Status: Todas as atualizações do repositório
+Git pull: Fazer o donwload dos arquivos atualizados
+
+git config --global user.email gustavomraimundo@hotmail.com
+git config --global user.name "Coxombo"
+
+git clone + o link de donwload para baixar um repositório
+
+Ordem das aulas
+
+
+1 -  git pull
+
+2 -  git add . -> adiciona as alterações na linha do tempo (ponto pode ser substituido pelo arquivo na qual se quer adicionar)
+
+3  - git commit -m "" -> falar as alterações
+
+4 - git push -> upa as alterações no github
