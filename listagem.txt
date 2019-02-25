@@ -1,35 +1,37 @@
-Github: "Rede social" de códigos;
+Github: "Rede social" de cÃ³digos;
                  Uso online(nuvem);
 
-Git: Versionamento(controlador) de código;
+Git: Versionamento(controlador) de cÃ³digo;
         Uso local;
 
-Repositório: Funciona como um Google Drive compartilhado com o email de todos os participantes;
+RepositÃ³rio: Funciona como um Google Drive compartilhado com o email de todos os participantes;
 
 Branch: Linha do tempo
 
 Master: Linha do tempo atual
 
-Commit: Descrição das atualizações
+Commit: DescriÃ§Ã£o das atualizaÃ§Ãµes
 
 Comandos:
 
 Git Push: atualiza os arquivos
-Git Status: Todas as atualizações do repositório
+Git Status: Todas as atualizaÃ§Ãµes do repositÃ³rio
 Git pull: Fazer o donwload dos arquivos atualizados
 
 git config --global user.email gustavomraimundo@hotmail.com
 git config --global user.name "Coxombo"
 
-git clone + o link de donwload para baixar um repositório
+git clone + o link de donwload para baixar um repositÃ³rio
 
 Ordem das aulas
 
 
 1 -  git pull
 
-2 -  git add . -> adiciona as alterações na linha do tempo (ponto pode ser substituido pelo arquivo na qual se quer adicionar)
+2 -  git add . -> adiciona as alteraÃ§Ãµes na linha do tempo (ponto pode ser substituido pelo arquivo na qual se quer adicionar)
 
-3  - git commit -m "" -> falar as alterações
+3  - git commit -m "" -> falar as alteraÃ§Ãµes
 
-4 - git push -> upa as alterações no github
+4 - git push -> upa as alteraÃ§Ãµes no github
+
+teste remoto
